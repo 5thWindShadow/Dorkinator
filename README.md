@@ -1,5 +1,6 @@
 # Dorkinator
 
+![image](https://github.com/5thWindShadow/Dorkinator/assets/162215715/b210dd57-c5c2-4890-ac88-8bb0945829b6)
 
 **Dorkinator** is a powerful Google Dorking tool designed for automated reconnaissance and information gathering during security assessments and penetration testing. It simplifies the process of searching for potential vulnerabilities, sensitive information, and misconfigurations on web applications and servers.
 
@@ -7,13 +8,24 @@
 
 Dorkinator is developed with the aim of providing penetration testers, security researchers, and ethical hackers with a versatile and user-friendly tool for leveraging Google Dorks effectively. By utilizing carefully crafted Google search queries (Google Dorks), Dorkinator facilitates the discovery of common security flaws, such as directory listings, database-related leaks, authentication issues, and more.
 
-## Key Features
+## Features
 
-- **Comprehensive Search Options**: Dorkinator offers a wide range of search options categorized into Information Gathering and Vulnerability Parameters, covering various aspects of web application security.
-- **Automated Google Searches**: The tool automates the process of constructing Google Dorks and executing Google searches, saving time and effort for security professionals.
-- **Customizable Queries**: Users can easily customize search parameters to target specific domains, keywords, or file types, allowing for tailored reconnaissance according to the target environment.
-- **Interactive User Interface**: Dorkinator provides a simple command-line interface with intuitive menu options, making it accessible to both novice and experienced users.
-- **ASCII Art and Colorful Output**: The tool incorporates colorful ASCII art in its introduction, enhancing the user experience and adding a touch of personality to the interface.
+**Information Gathering
+- Directory Listing
+- Database Related
+- Authentication Related
+ - Juicy Files
+ - Sensitive Informations
+- Code Leaks
+
+**Vulnerability Parameters 
+- Cross Site Scripting(XSS)
+- SQL Injection(SQLi)
+- Server-side Request Forgery(SSRF)
+- Local File Inclusion(LFI)
+- Remote Code Execution(RCE)
+- PHP Extension
+- File Upload
 
 ## How to Use
 
@@ -29,7 +41,7 @@ Dorkinator is developed with the aim of providing penetration testers, security 
 
 3. **Run the Script**: Execute the main Python script to launch Dorkinator:
    ```bash
-   python dorkinator.py
+   python3 dorkinator.py
    ```
 
 4. **Follow the On-Screen Instructions**: Use the interactive menu to select desired search options and enter the target domain.
