@@ -10,7 +10,7 @@ Dorkinator is developed with the aim of providing penetration testers, security 
 
 ## Features
 
-**Information Gathering
+**Information Gathering**
 - Directory Listing
 - Database Related
 - Authentication Related
@@ -18,7 +18,7 @@ Dorkinator is developed with the aim of providing penetration testers, security 
  - Sensitive Informations
 - Code Leaks
 
-**Vulnerability Parameters 
+**Vulnerability Parameters**
 - Cross Site Scripting(XSS)
 - SQL Injection(SQLi)
 - Server-side Request Forgery(SSRF)
