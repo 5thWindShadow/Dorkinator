@@ -2,7 +2,7 @@
 
 ![image](https://github.com/5thWindShadow/Dorkinator/assets/162215715/b210dd57-c5c2-4890-ac88-8bb0945829b6)
 
-**Dorkinator** is a powerful Google Dorking Link Generator tool designed for automated reconnaissance and information gathering during security assessments and penetration testing. It simplifies the process of searching for potential vulnerabilities, sensitive information, and misconfigurations on web applications and servers.
+**Dorkinator** is a powerful Google Dorking Link Generator tool designed for information gathering during security assessments and penetration testing. It simplifies the process of searching for potential vulnerabilities, sensitive information, and misconfigurations on web applications and servers.
 
 ## Introduction
 
